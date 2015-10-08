@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.uk.dmott.mymusicfinder.MainActivity" >
+    <item android:id="@+id/action_help1" android:title="@string/action_help" android:showAsAction="never" android:orderInCategory="101"></item>
+
+</menu>

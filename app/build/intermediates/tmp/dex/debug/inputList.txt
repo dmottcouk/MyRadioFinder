@@ -1,0 +1,2 @@
+/home/david/AndroidStudioProjects/MyRadioFinder/app/build/intermediates/classes/debug
+/home/david/AndroidStudioProjects/MyRadioFinder/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-456d129254381f6cb358283a6f5f4d750b9652f1.jar

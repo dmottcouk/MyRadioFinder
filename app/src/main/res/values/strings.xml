@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicFinder</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="enter_schedule_search">Add</string>
+    <string name="search_textView">Find?</string>
+    <string name="scroll_view_title">Saved Searches</string>
+    <string name="genre_label">Genre</string>
+    <string name="delete_me">X</string>
+    <string name="find_music">Find</string>
+
+    <string-array name="spinner_strings">
+        <item>Classic Pop &amp; Rock</item>
+        <item>HipHop, R&amp;B &amp; Dance</item>
+        <item>Classical</item>
+        <item>Jazz &amp; Blues</item>
+        <item>Country</item>
+        <item>Pop &amp; Chart</item>
+        <item>Dance &amp; Electronica</item>
+        <item>Rock &amp; Indie</item>
+        <item>Desi</item>
+        <item>Soul &amp; Raggae</item>
+        <item>Easy Listening,Sound tracks,Musicals</item>
+        <item>World</item>
+        <item>Folk</item>
+    </string-array>
+
+    <string name="schedule_title">Schedule List</string>
+    <string name="schedule_activity">Schedule</string>
+    <string name="programme_details">Programme Details</string>
+    <string name="event_activity">Saved Events</string>
+    <string name="title_details">Title</string>
+    <string name="overview_details">Overview</string>
+    <string name="mediatype_details">Media</string>
+    <string name="nobroadcastsfound">No programmes found</string>
+    <string name="serviceTitle_details">Service</string>
+    <string name="already_stored">Search already stored</string>
+    <string name="save_in_calendar">Save Event</string>
+    <string name="lastweeksevents">Saved Events?</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="help_header">Searching</string>
+    <string name="help_text">To search today\'s listings by genre only , leave the Find? box empty, then press the Add button. </string>
+    <string name="help_text2">To search today\'s listings by genre and a keyword , put the keyword in the Find? box, then press the Add button. </string>
+    <string name="help_text3">For example, to search for Mozart in the Classical listing, enter \"Classical\" in the Genre and \"Mozart\" in the Find? box. </string>
+    <string name="help_header2">Saved Events</string>
+    <string name="help_text4">If you have iPlayer installed, when clicking on Saved Events to jump into iPlayer, the title is saved in the scratchpad. </string>
+    <string name="help_text5">This means that in iPlayer you can go into Search box, long press and execute Paste. </string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
